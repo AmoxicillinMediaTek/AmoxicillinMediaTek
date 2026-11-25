@@ -1,0 +1,1055 @@
+{
+ "key": "db54bd97",
+ "stars": 5,
+ "contributions": 855,
+ "repos": 103,
+ "followers": 1,
+ "languages": [
+  [
+   "WebAssembly",
+   16429655
+  ],
+  [
+   "Kotlin",
+   15372802
+  ],
+  [
+   "Lua",
+   13077182
+  ],
+  [
+   "Java",
+   10980105
+  ],
+  [
+   "TypeScript",
+   9424602
+  ],
+  [
+   "HTML",
+   2934174
+  ],
+  [
+   "Python",
+   2573705
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   },
+   {
+    "c": 7,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 14,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 10,
+    "day": 14,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 3,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 7,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 10,
+    "day": 17,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 13,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 7,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 21,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 1,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 24,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 25,
+    "today": true
+   },
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 15,
+  "longest": 19
+ },
+ "pins": [
+  {
+   "name": "Baritone",
+   "url": "https://github.com/AmoxicillinMediaTek/Baritone",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "All-scripts",
+   "url": "https://github.com/AmoxicillinMediaTek/All-scripts",
+   "text": "",
+   "fork": false,
+   "stars": 2,
+   "language": "Lua",
+   "topics": []
+  },
+  {
+   "name": "Zalith-Launcher-2",
+   "url": "https://github.com/AmoxicillinMediaTek/Zalith-Launcher-2",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "moonsec-deobfuscator",
+   "url": "https://github.com/AmoxicillinMediaTek/moonsec-deobfuscator",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "Modal",
+   "url": "https://github.com/AmoxicillinMediaTek/Modal",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Luau",
+   "topics": []
+  },
+  {
+   "name": "AmoxicillinMediaTek",
+   "url": "https://github.com/AmoxicillinMediaTek/AmoxicillinMediaTek",
+   "text": "My GitHub profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "lexify",
+   "url": "https://github.com/AmoxicillinMediaTek/lexify",
+   "text": "Lexify Obfuscator — Rust CLI for Lua/Luau source transformation.",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "AcAgent",
+   "url": "https://github.com/AmoxicillinMediaTek/AcAgent",
+   "text": "AcAgent an ai coding agent",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "AlternateEditor",
+   "url": "https://github.com/AmoxicillinMediaTek/AlternateEditor",
+   "text": "Created via Acode",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "DRRAYUI",
+   "url": "https://github.com/AmoxicillinMediaTek/DRRAYUI",
+   "text": "Created via Acode",
+   "fork": false,
+   "stars": 0,
+   "language": "Lua",
+   "topics": []
+  },
+  {
+   "name": "OpenVCore",
+   "url": "https://github.com/AmoxicillinMediaTek/OpenVCore",
+   "text": "OpenSource",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "OpenCLI",
+   "url": "https://github.com/AmoxicillinMediaTek/OpenCLI",
+   "text": "Created via Acode",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "PythonProjects",
+   "url": "https://github.com/AmoxicillinMediaTek/PythonProjects",
+   "text": "projects i made using python",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "kodari-202610-k6t11dh4",
+   "url": "https://github.com/AmoxicillinMediaTek/kodari-202610-k6t11dh4",
+   "text": "Created with kodari.ai",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "FluffyLuck",
+   "url": "https://github.com/AmoxicillinMediaTek/FluffyLuck",
+   "text": "Created with kodari.ai",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "ChatAntiSpam",
+   "url": "https://github.com/AmoxicillinMediaTek/ChatAntiSpam",
+   "text": "ChatAntiSpam",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "AmoxLauncher",
+   "url": "https://github.com/AmoxicillinMediaTek/AmoxLauncher",
+   "text": "This is a fork of Zalith launcher 1",
+   "fork": true,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "chat-utils",
+   "url": "https://github.com/AmoxicillinMediaTek/chat-utils",
+   "text": "Minecraft Fabric client-side mod to ease chat message copying.",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "InstantFurnace",
+   "url": "https://github.com/AmoxicillinMediaTek/InstantFurnace",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "PojavBounceImprove",
+   "url": "https://github.com/AmoxicillinMediaTek/PojavBounceImprove",
+   "text": "A free Minecraft hacked client (utility mod) for Fabric and it can run on android.",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "AutoAttackForgeOnly",
+   "url": "https://github.com/AmoxicillinMediaTek/AutoAttackForgeOnly",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "ServerPluginScanner",
+   "url": "https://github.com/AmoxicillinMediaTek/ServerPluginScanner",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "AutoAttackMod",
+   "url": "https://github.com/AmoxicillinMediaTek/AutoAttackMod",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "MineWeb",
+   "url": "https://github.com/AmoxicillinMediaTek/MineWeb",
+   "text": "mineflayer but on web",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "AutoAttacked",
+   "url": "https://github.com/AmoxicillinMediaTek/AutoAttacked",
+   "text": "Created with kodari.ai",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "AutoDisconnect",
+   "url": "https://github.com/AmoxicillinMediaTek/AutoDisconnect",
+   "text": "Created with kodari.ai",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "AutoAttackAnother",
+   "url": "https://github.com/AmoxicillinMediaTek/AutoAttackAnother",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "AutoAttack",
+   "url": "https://github.com/AmoxicillinMediaTek/AutoAttack",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "Zalith-PojavBounce",
+   "url": "https://github.com/AmoxicillinMediaTek/Zalith-PojavBounce",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "Baritone-Plus",
+   "url": "https://github.com/AmoxicillinMediaTek/Baritone-Plus",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "Baritone",
+   "url": "https://github.com/AmoxicillinMediaTek/Baritone",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "Fastbreak",
+   "url": "https://github.com/AmoxicillinMediaTek/Fastbreak",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "TestClickGui",
+   "url": "https://github.com/AmoxicillinMediaTek/TestClickGui",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "SwordBlockingFabric",
+   "url": "https://github.com/AmoxicillinMediaTek/SwordBlockingFabric",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "MobileBounce",
+   "url": "https://github.com/AmoxicillinMediaTek/MobileBounce",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "WurstChevAPIKeyManager",
+   "url": "https://github.com/AmoxicillinMediaTek/WurstChevAPIKeyManager",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "SimpleNoJumpDelay",
+   "url": "https://github.com/AmoxicillinMediaTek/SimpleNoJumpDelay",
+   "text": "Created with kodari.ai",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "Saturn-client",
+   "url": "https://github.com/AmoxicillinMediaTek/Saturn-client",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "OriginOS",
+   "url": "https://github.com/AmoxicillinMediaTek/OriginOS",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "MoreCulling",
+   "url": "https://github.com/AmoxicillinMediaTek/MoreCulling",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "triggerbot-template-1211zip",
+   "url": "https://github.com/AmoxicillinMediaTek/triggerbot-template-1211zip",
+   "text": "Imported from zip",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "TriggerbotMC",
+   "url": "https://github.com/AmoxicillinMediaTek/TriggerbotMC",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Triggerbot",
+   "url": "https://github.com/AmoxicillinMediaTek/Triggerbot",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "World-Preview-Mod",
+   "url": "https://github.com/AmoxicillinMediaTek/World-Preview-Mod",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "Nikecraft",
+   "url": "https://github.com/AmoxicillinMediaTek/Nikecraft",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "pojavlu",
+   "url": "https://github.com/AmoxicillinMediaTek/pojavlu",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "PASTES",
+   "url": "https://github.com/AmoxicillinMediaTek/PASTES",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "forgejo",
+   "url": "https://github.com/AmoxicillinMediaTek/forgejo",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Webhook",
+   "url": "https://github.com/AmoxicillinMediaTek/Webhook",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Vue",
+   "topics": []
+  },
+  {
+   "name": "EZFuscator",
+   "url": "https://github.com/AmoxicillinMediaTek/EZFuscator",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "EZFucator",
+   "url": "https://github.com/AmoxicillinMediaTek/EZFucator",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Redzlib",
+   "url": "https://github.com/AmoxicillinMediaTek/Redzlib",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Lua",
+   "topics": []
+  },
+  {
+   "name": "Lua-Obfuscator",
+   "url": "https://github.com/AmoxicillinMediaTek/Lua-Obfuscator",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "NovaLuau",
+   "url": "https://github.com/AmoxicillinMediaTek/NovaLuau",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "LuaForm",
+   "url": "https://github.com/AmoxicillinMediaTek/LuaForm",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "WeAreDevs-Obfuscator",
+   "url": "https://github.com/AmoxicillinMediaTek/WeAreDevs-Obfuscator",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Lua",
+   "topics": []
+  },
+  {
+   "name": "AnkaUI",
+   "url": "https://github.com/AmoxicillinMediaTek/AnkaUI",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Lua",
+   "topics": []
+  },
+  {
+   "name": "PSU",
+   "url": "https://github.com/AmoxicillinMediaTek/PSU",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "Chromium",
+   "url": "https://github.com/AmoxicillinMediaTek/Chromium",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "LuaPoer",
+   "url": "https://github.com/AmoxicillinMediaTek/LuaPoer",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "RobloxImages",
+   "url": "https://github.com/AmoxicillinMediaTek/RobloxImages",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "IB2",
+   "url": "https://github.com/AmoxicillinMediaTek/IB2",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Lua",
+   "topics": []
+  },
+  {
+   "name": "PrivateBin",
+   "url": "https://github.com/AmoxicillinMediaTek/PrivateBin",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "PHP",
+   "topics": []
+  },
+  {
+   "name": "Prometheus",
+   "url": "https://github.com/AmoxicillinMediaTek/Prometheus",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Lua",
+   "topics": []
+  },
+  {
+   "name": "Goofylua",
+   "url": "https://github.com/AmoxicillinMediaTek/Goofylua",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "Xfuscator",
+   "url": "https://github.com/AmoxicillinMediaTek/Xfuscator",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Lua",
+   "topics": []
+  },
+  {
+   "name": "XORio",
+   "url": "https://github.com/AmoxicillinMediaTek/XORio",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "BlackHoleUI",
+   "url": "https://github.com/AmoxicillinMediaTek/BlackHoleUI",
+   "text": "BlackHoleUI",
+   "fork": false,
+   "stars": 0,
+   "language": "Lua",
+   "topics": []
+  },
+  {
+   "name": "UIs",
+   "url": "https://github.com/AmoxicillinMediaTek/UIs",
+   "text": "UIs I created/modified it",
+   "fork": false,
+   "stars": 0,
+   "language": "Lua",
+   "topics": []
+  },
+  {
+   "name": "Herculesbot",
+   "url": "https://github.com/AmoxicillinMediaTek/Herculesbot",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Hercules",
+   "url": "https://github.com/AmoxicillinMediaTek/Hercules",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Lua",
+   "topics": []
+  },
+  {
+   "name": "LonariaBetter",
+   "url": "https://github.com/AmoxicillinMediaTek/LonariaBetter",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Lua",
+   "topics": []
+  },
+  {
+   "name": "Lonaria-",
+   "url": "https://github.com/AmoxicillinMediaTek/Lonaria-",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Wind-UI-Forked-",
+   "url": "https://github.com/AmoxicillinMediaTek/Wind-UI-Forked-",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Lonaria-alternative",
+   "url": "https://github.com/AmoxicillinMediaTek/Lonaria-alternative",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Lua",
+   "topics": []
+  },
+  {
+   "name": "mintlify-docs",
+   "url": "https://github.com/AmoxicillinMediaTek/mintlify-docs",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "MDX",
+   "topics": []
+  },
+  {
+   "name": "WebNBT",
+   "url": "https://github.com/AmoxicillinMediaTek/WebNBT",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "WebAssembly",
+   "topics": []
+  },
+  {
+   "name": "LuminUI",
+   "url": "https://github.com/AmoxicillinMediaTek/LuminUI",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "UiLibs",
+   "url": "https://github.com/AmoxicillinMediaTek/UiLibs",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Jskks",
+   "url": "https://github.com/AmoxicillinMediaTek/Jskks",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "Bloksk",
+   "url": "https://github.com/AmoxicillinMediaTek/Bloksk",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Blo",
+   "url": "https://github.com/AmoxicillinMediaTek/Blo",
+   "text": "Prf",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "webstttqsz",
+   "url": "https://github.com/AmoxicillinMediaTek/webstttqsz",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "BloxHub",
+   "url": "https://github.com/AmoxicillinMediaTek/BloxHub",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Lua",
+   "topics": []
+  },
+  {
+   "name": "docs",
+   "url": "https://github.com/AmoxicillinMediaTek/docs",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "MDX",
+   "topics": []
+  },
+  {
+   "name": "SugarUI",
+   "url": "https://github.com/AmoxicillinMediaTek/SugarUI",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Web-executor",
+   "url": "https://github.com/AmoxicillinMediaTek/Web-executor",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "Funkin",
+   "url": "https://github.com/AmoxicillinMediaTek/Funkin",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Username-gen",
+   "url": "https://github.com/AmoxicillinMediaTek/Username-gen",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "Tates",
+   "url": "https://github.com/AmoxicillinMediaTek/Tates",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "Valex",
+   "url": "https://github.com/AmoxicillinMediaTek/Valex",
+   "text": "Created by Valex via GitHubAPI",
+   "fork": false,
+   "stars": 0,
+   "language": "Lua",
+   "topics": []
+  },
+  {
+   "name": "Moder-dark",
+   "url": "https://github.com/AmoxicillinMediaTek/Moder-dark",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "wiewer",
+   "url": "https://github.com/AmoxicillinMediaTek/wiewer",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "wintaw",
+   "url": "https://github.com/AmoxicillinMediaTek/wintaw",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "githubprofilefinder",
+   "url": "https://github.com/AmoxicillinMediaTek/githubprofilefinder",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "96soul",
+   "url": "https://github.com/AmoxicillinMediaTek/96soul",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Lua",
+   "topics": []
+  },
+  {
+   "name": "HI-notes-app",
+   "url": "https://github.com/AmoxicillinMediaTek/HI-notes-app",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "notes-appv2",
+   "url": "https://github.com/AmoxicillinMediaTek/notes-appv2",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "Notes",
+   "url": "https://github.com/AmoxicillinMediaTek/Notes",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Web",
+   "url": "https://github.com/AmoxicillinMediaTek/Web",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Lua",
+   "topics": []
+  },
+  {
+   "name": "Test",
+   "url": "https://github.com/AmoxicillinMediaTek/Test",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  }
+ ]
+}
